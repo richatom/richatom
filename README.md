@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @richatom
-- 👀 I’m interested in: Cybersecurity and computer science
-- 🌱 I’m currently learning: Python, HTML, Javascript
-- 📫 How to reach me: You don't
-- 😄 Pronouns: He/him
+
